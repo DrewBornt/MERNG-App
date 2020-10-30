@@ -1,0 +1,1 @@
+Followed along with freecodecamp.org's MERNG Stack tutorial on making a social media app
